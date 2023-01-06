@@ -30,7 +30,7 @@ run isort.c by:
 ./isort
 ```
 
-run txtfind.c by:
+* run txtfind.c by:
 ```
 ./txtfind
 ```
